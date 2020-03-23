@@ -1,0 +1,31 @@
+# Other 
+Type "python" to launch python interpretor
+
+# Ch01: Basic
+input() :
+print() : print('Fist %s, Second : %s, Third : %s' %(f,s,t))
+
+# Ch02: Flow
+while :
+break : exit the loop
+continue : return to the start of the loop
+if..elif..else :
+for..range :  for i in range(100), range can have 3 args, range(start, stop, step)
+import module : import random, sys, os, math
+    sys.exit() : exit program before it end.
+
+# Ch03: Function
+def functionName():
+None value : 
+print('cats', 'dogs', 'mice', sep=',')
+print('cats', 'dogs', 'mice', end='')
+
+# Ch04: List
+List start from zero 
+spam = [1,2,3,4,"abc"]
+slice List : spam[2:3], spam[2:-1], spam[:-1], spam[3:]
+len(spam) : = 5 (display no of item in list)
+
+List use [] : mutable (changable)
+Tuple use () : immutable (unchangable)
+Dictionary use {}
