@@ -1,0 +1,467 @@
+1585032585115	geckodriver	INFO	geckodriver 0.20.1
+1585032585168	geckodriver	INFO	Listening on 127.0.0.1:40282
+1585032676921	geckodriver	INFO	geckodriver 0.20.1
+1585032676952	geckodriver	INFO	Listening on 127.0.0.1:40410
+1585032756702	geckodriver	INFO	geckodriver 0.20.1
+1585032756730	geckodriver	INFO	Listening on 127.0.0.1:40483
+1585033013312	geckodriver	INFO	geckodriver 0.20.1
+1585033013340	geckodriver	INFO	Listening on 127.0.0.1:40659
+1585034496963	geckodriver	INFO	geckodriver 0.20.1
+1585034497012	geckodriver	INFO	Listening on 127.0.0.1:41552
+1585036087228	geckodriver	INFO	geckodriver 0.20.1
+1585036087352	geckodriver	INFO	Listening on 127.0.0.1:42460
+1585036090708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofile.WJXCVPKnN8vp"
+1585036098735	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585036100822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585036100822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585036100822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585036100822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585036101111	Marionette	TRACE	Received observer notification profile-after-change
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036101742	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585036101949	Marionette	TRACE	Received observer notification command-line-startup
+1585036101950	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585036102773	Marionette	TRACE	Received observer notification toplevel-window-ready
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036117604	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585036117605	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585036117766	Marionette	TRACE	All scripts recorded.
+1585036117766	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585036117767	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585036117767	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1585036117770	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585036117770	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585036117771	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585036117771	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585036117772	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585036117773	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585036117773	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585036117776	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585036118150	Marionette	INFO	Listening on port 42469
+1585036118151	Marionette	DEBUG	Marionette is listening
+1585036118168	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:42544
+1585036118183	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585036118184	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585036188189	Marionette	DEBUG	Closed connection 0
+1585036242221	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585036242221	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585036242221	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585036242222	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1585036242223	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585036242223	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585036242223	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585036242224	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585036242224	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585036242225	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585036242225	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585036242225	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585036242226	Marionette	INFO	Stopped listening on port 42469
+1585036242226	Marionette	DEBUG	Marionette stopped listening
+1585036502780	geckodriver	INFO	geckodriver 0.20.1
+1585036502812	geckodriver	INFO	Listening on 127.0.0.1:42690
+1585036505899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofile.m2Mv7x2JlHVM"
+1585036512939	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585036514096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585036514096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585036514097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585036514097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585036514199	Marionette	TRACE	Received observer notification profile-after-change
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036514317	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585036514381	Marionette	TRACE	Received observer notification command-line-startup
+1585036514381	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585036514534	Marionette	TRACE	Received observer notification toplevel-window-ready
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036519558	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585036519559	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585036519588	Marionette	TRACE	All scripts recorded.
+1585036519589	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585036519589	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585036519589	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1585036519590	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585036519591	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585036519591	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585036519591	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585036519591	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585036519592	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585036519592	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585036519593	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585036519699	Marionette	INFO	Listening on port 42698
+1585036519700	Marionette	DEBUG	Marionette is listening
+1585036519840	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:42738
+1585036519844	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585036519845	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585036561799	Marionette	DEBUG	Closed connection 0
+[Parent 9864, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585036562858	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585036562858	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585036562858	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585036562858	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1585036562859	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585036562859	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585036562859	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585036562859	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585036562860	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585036562860	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585036562860	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585036562860	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585036562861	Marionette	INFO	Stopped listening on port 42698
+1585036562861	Marionette	DEBUG	Marionette stopped listening
+1585036586227	geckodriver	INFO	geckodriver 0.20.1
+1585036586261	geckodriver	INFO	Listening on 127.0.0.1:42777
+1585036589379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofile.dxbDPsSnNv1m"
+1585036590337	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585036591051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585036591052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585036591052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585036591052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585036591133	Marionette	TRACE	Received observer notification profile-after-change
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036591256	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585036591295	Marionette	TRACE	Received observer notification command-line-startup
+1585036591295	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585036591379	Marionette	TRACE	Received observer notification toplevel-window-ready
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036594759	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585036594760	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585036594780	Marionette	TRACE	All scripts recorded.
+1585036594780	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585036594781	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585036594781	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1585036594783	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585036594783	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585036594783	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585036594784	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585036594785	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585036594786	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585036594786	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585036594787	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585036594880	Marionette	INFO	Listening on port 42785
+1585036594881	Marionette	DEBUG	Marionette is listening
+1585036595211	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:42811
+1585036595217	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585036595217	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585036597864	Marionette	DEBUG	Closed connection 0
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1585036599950	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585036599950	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585036599950	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585036599950	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1585036599951	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585036599951	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585036599951	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585036599951	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585036599951	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585036599951	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585036599951	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585036599952	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585036599952	Marionette	INFO	Stopped listening on port 42785
+1585036599952	Marionette	DEBUG	Marionette stopped listening
+1585036718887	geckodriver	INFO	geckodriver 0.20.1
+1585036718919	geckodriver	INFO	Listening on 127.0.0.1:42866
+1585036722018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofile.1GkHaT5QCJ87"
+1585036723049	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585036723722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585036723722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585036723722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585036723722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585036723804	Marionette	TRACE	Received observer notification profile-after-change
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036723912	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585036723949	Marionette	TRACE	Received observer notification command-line-startup
+1585036723949	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585036724031	Marionette	TRACE	Received observer notification toplevel-window-ready
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585036727722	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585036727722	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585036727785	Marionette	TRACE	All scripts recorded.
+1585036727786	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585036727786	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585036727787	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1585036727788	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585036727788	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585036727789	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585036727789	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585036727789	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585036727790	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585036727790	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585036727792	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585036727883	Marionette	INFO	Listening on port 42874
+1585036727884	Marionette	DEBUG	Marionette is listening
+1585036728375	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:42895
+1585036728378	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585036728379	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585036798371	Marionette	DEBUG	Closed connection 0
+[Parent 5992, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585036823324	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585036823324	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585036823325	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585036823325	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1585036823326	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585036823326	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585036823326	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585036823326	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585036823327	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585036823327	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585036823327	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585036823327	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585036823328	Marionette	INFO	Stopped listening on port 42874
+1585036823328	Marionette	DEBUG	Marionette stopped listening
+1585037087758	geckodriver	INFO	geckodriver 0.20.1
+1585037087786	geckodriver	INFO	Listening on 127.0.0.1:43096
+1585037090864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofile.3Utb2HMoaY6l"
+1585037092668	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585037093483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585037093483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585037093483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585037093484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585037093578	Marionette	TRACE	Received observer notification profile-after-change
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585037093742	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585037093781	Marionette	TRACE	Received observer notification command-line-startup
+1585037093781	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585037093868	Marionette	TRACE	Received observer notification toplevel-window-ready
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585037097673	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585037097674	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585037097762	Marionette	TRACE	All scripts recorded.
+1585037097762	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585037097763	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585037097763	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1585037097765	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585037097765	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585037097766	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585037097766	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585037097767	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585037097767	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585037097767	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585037097770	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585037097854	Marionette	INFO	Listening on port 43104
+1585037097855	Marionette	DEBUG	Marionette is listening
+1585037098270	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:43131
+1585037098273	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585037098273	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585037168239	Marionette	DEBUG	Closed connection 0
+[Parent 8620, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585037176770	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585037176770	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585037176771	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585037176771	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1585037176771	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585037176771	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585037176771	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585037176772	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585037176772	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585037176772	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585037176772	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585037176772	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585037176773	Marionette	INFO	Stopped listening on port 43104
+1585037176773	Marionette	DEBUG	Marionette stopped listening
+1585101168378	geckodriver	INFO	geckodriver 0.20.1
+1585101168817	geckodriver	INFO	Listening on 127.0.0.1:62898
+1585101171486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofile.7O01zda45jXc"
+1585101175169	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585101177514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585101177515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585101177515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585101177515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585101177987	Marionette	TRACE	Received observer notification profile-after-change
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585101178186	Marionette	TRACE	Received observer notification toplevel-window-ready
+1585101178472	Marionette	TRACE	Received observer notification command-line-startup
+1585101178472	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1585101178621	Marionette	TRACE	Received observer notification toplevel-window-ready
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585101182889	Marionette	TRACE	Received observer notification marionette-startup-requested
+1585101182890	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585101188903	Marionette	TRACE	Received observer notification domwindowclosed
+1585101188903	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1585101188915	Marionette	TRACE	All scripts recorded.
+1585101188915	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1585101188916	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1585101188916	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1585101188919	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1585101188919	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1585101188920	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1585101188920	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1585101188921	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1585101188926	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1585101188926	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1585101188928	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1585101189029	Marionette	INFO	Listening on port 62912
+1585101189030	Marionette	DEBUG	Marionette is listening
+1585101189727	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:62988
+1585101189731	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1585101189732	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1585101259716	Marionette	DEBUG	Closed connection 0
+1585101310994	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1585101310995	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1585101310995	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1585101310995	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1585101310996	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1585101310996	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1585101310996	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1585101310996	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1585101310996	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1585101310997	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1585101310997	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1585101310997	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1585101310998	Marionette	INFO	Stopped listening on port 62912
+1585101310998	Marionette	DEBUG	Marionette stopped listening
+1585109089470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileA0pL3b"
+1585109094368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585109096310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585109096311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585109096311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585109096311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585109117939	Marionette	INFO	Listening on port 3135
+1585109118379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1585109143916	Marionette	INFO	Stopped listening on port 3135
+1585109612771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileeWzIAS"
+1585109648442	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585109650319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585109650319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585109650320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585109650320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Misma[GFX1-]: Mismattched drched driver veriver versions besions between the registry 8.84tween the regis0.7.3000 and DLL(s) 8.15.10.2361,  rtry 8.840.7.3000eported.
+ and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585109679922	Marionette	INFO	Listening on port 3523
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[Parent 9080, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9080, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585109752544	Marionette	INFO	Stopped listening on port 3523
+1585109812072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileimD7ck"
+1585109825926	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585109826797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585109826797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585109826798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585109826798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585109833020	Marionette	INFO	Listening on port 3693
+1585109833268	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7792, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585109848832	Marionette	INFO	Stopped listening on port 3693
+1585109935894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileA1TV9B"
+1585109936844	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585109937522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585109937522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585109937522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585109937523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585109941602	Marionette	INFO	Listening on port 3783
+1585109942012	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10752, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 10752, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585109952046	Marionette	INFO	Stopped listening on port 3783
+1585110210608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileFgmqua"
+1585110211704	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110212527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110212527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110212527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110212528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585110216513	Marionette	INFO	Listening on port 3923
+1585110216733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585110259638	Marionette	INFO	Stopped listening on port 3923
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileQGHAA4"
+1585110251090	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110251891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110251891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110251891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110251891	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585110256680	Marionette	INFO	Listening on port 3993
+1585110256920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585110274667	Marionette	INFO	Stopped listening on port 3993
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofilenYuCEe"
+1585110275095	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110276161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110276161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110276161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110276161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585110280534	Marionette	INFO	Listening on port 4052
+1585110280575	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7692, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585110356516	Marionette	INFO	Stopped listening on port 4052
+1585110860285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileKMp8DM"
+1585110861359	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110862105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110862105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110862106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110862106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585110866253	Marionette	INFO	Listening on port 4328
+1585110866487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1585110894008	Marionette	INFO	Stopped listening on port 4328
+1585110904415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KENNET~1.NWN\\AppData\\Local\\Temp\\rust_mozprofileS4AshV"
+1585110905436	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110906212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110906212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110906213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110906213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Mismatched driver versions between the registry 8.840.7.3000 and DLL(s) 8.15.10.2361,  reported.
+1585110910036	Marionette	INFO	Listening on port 4419
+1585110910534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Parent 9680, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585110977361	Marionette	INFO	Stopped listening on port 4419
